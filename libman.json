@@ -10,15 +10,15 @@
         "dist/MicrosoftTeams.js.map"
       ]
     },
-    {
-      "provider": "cdnjs",
-      "library": "jquery@3.5.1",
-      "destination": "wwwroot/lib/jquery/",
-      "files": [
-        "jquery.min.js",
-        "jquery.min.map"
-      ]
-    },
+    // {
+    //   "provider": "cdnjs",
+    //   "library": "jquery@3.5.1",
+    //   "destination": "wwwroot/lib/jquery/",
+    //   "files": [
+    //     "jquery.min.js",
+    //     "jquery.min.map"
+    //   ]
+    // },
     {
       "library": "bootstrap@4.5.3",
       "destination": "wwwroot/lib/bootstrap/",
